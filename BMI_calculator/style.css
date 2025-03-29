@@ -11,7 +11,7 @@ body{
 }
 
 .container{
-   height: 460px;
+   height: 480px;
    width: 330px;
    background-color: #1c1f2b;
     text-align: center;
@@ -52,6 +52,7 @@ label{
 
 #results{
     margin-top: 10px;
+    
 }
 
 button  {
